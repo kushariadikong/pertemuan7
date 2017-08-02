@@ -3,10 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/swipe_main">
-    <com.example.uph.pertemuan7.LoadMoreListView
+    <com.example.optimus.pertemuan7.LoadMoreListView
         android:id="@+id/lv_item"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:cacheColorHint="@android:color/transparent">
-    </com.example.uph.pertemuan7.LoadMoreListView>
+    </com.example.optimus.pertemuan7.LoadMoreListView>
 </android.support.v4.widget.SwipeRefreshLayout>

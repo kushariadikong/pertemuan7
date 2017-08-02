@@ -7,4 +7,8 @@ package com.example.optimus.pertemuan7.api.model;
 public class Repo {
     int id;
     String name, fullName;
+
+    public String getFullName() {
+        return fullName;
+    }
 }
